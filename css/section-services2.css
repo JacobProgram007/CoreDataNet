@@ -42,7 +42,7 @@
 }
 
 .service__card {
-  max-width: 35%;
+  max-width: 50%;
   border: 1px solid var(--green);
   margin: 3rem 1rem;
   padding: 2rem 1rem;
